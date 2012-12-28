@@ -15,7 +15,7 @@ mainimage: dartan.png
 
 ### Author's Notes
 
-Webbased hexagonal boardgame to build towns, roads and cities
+Webbased hexagonal boardgame to build towns, roads and cities. Currently alpha tech demo.
 
 ### Demos
 
